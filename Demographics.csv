@@ -1,0 +1,205 @@
+subj_id|exp_id|age|sex|birth_country|residence|nationality|L1_language|education_level|student|employment|prolific_score|num_approvals
+S001|E001|37|Female|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|888
+S002|E001|37|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|Unemployed (and job seeking)|100|271
+S007|E004|30|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|254
+S010|E005|29|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|1413
+S008|E004|29|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|99|269
+S009|E005|40|Female|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|DATA EXPIRED|100|739
+S015|E008|26|Female|United States|United States|United States|English|Technical/community college|No|Full-Time|100|408
+S011|E006|30|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|32
+S012|E006|32|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Due to start a new job within the next month|100|1095
+S014|E007|30|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|97|238
+S016|E008|33|Male|United States|United States|United States|English|Technical/community college|No|Full-Time|100|422
+S013|E007|28|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|293
+S003|E002|26|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|858
+S004|E002|31|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Other|100|965
+S006|E003|29|Male|Argentina|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|149
+S005|E003|35|Female|China|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|282
+S019|E010|25|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Not in paid work (e.g. homemaker', 'retired or disabled)|100|140
+S020|E010|42|Female|United Kingdom|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|Yes|Full-Time|100|716
+S021|E011|30|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|80
+S022|E011|19|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Unemployed (and job seeking)|100|6
+S023|E012|33|Female|United States|United States|United States|English|Technical/community college|No|Part-Time|100|959
+S026|E013|19|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Due to start a new job within the next month|100|8
+S024|E012|20|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Part-Time|100|46
+S025|E013|28|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|239
+S018|E009|35|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|332
+S027|E014|22|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Part-Time|100|176
+S028|E014|25|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Full-Time|100|188
+S029|E015|21|Female|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|348
+S030|E015|24|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|100|185
+S031|E016|38|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|100|417
+S032|E016|28|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|232
+S017|E009|25|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Not in paid work (e.g. homemaker', 'retired or disabled)|100|88
+S040|E020|52|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|760
+S038|E019|25|Female|United States|United States|United States|English|High school diploma/A-levels|No|DATA EXPIRED|100|317
+S043|E022|29|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|376
+S033|E017|36|Female|Australia|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|829
+S046|E023|53|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|100|1847
+S035|E018|32|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|2278
+S039|E020|35|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Full-Time|100|1409
+S041|E021|56|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|1553
+S034|E017|27|Female|United States|United States|United States|English|Doctorate degree (PhD/other)|No|Full-Time|100|1260
+S044|E022|21|Female|United States|United States|United States|English|Technical/community college|Yes|DATA EXPIRED|100|953
+S036|E018|65|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|1343
+S037|E019|34|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|637
+S042|E021|40|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|DATA EXPIRED|100|1269
+S045|E023|36|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|512
+S053|E027|20|Male|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|491
+S047|E024|28|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|437
+S052|E026|25|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|98|1105
+S058|E029|28|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|1210
+S049|E025|37|Male|United States|United States|United States|English|Technical/community college|DATA EXPIRED|Full-Time|100|1910
+S048|E024|24|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|432
+S056|E028|53|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|2884
+S057|E029|37|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|691
+S060|E030|36|Male|United States|United States|United States|English|Technical/community college|No|Full-Time|100|1394
+S050|E025|31|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Unemployed (and job seeking)|100|505
+S051|E026|44|Female|United States|United States|United States|English|Technical/community college|No|Not in paid work (e.g. homemaker', 'retired or disabled)|99|1079
+S054|E027|36|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|331
+S055|E028|45|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|99|2323
+S059|E030|57|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|563
+S062|E031|37|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|99|449
+S061|E031|23|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|Other|100|88
+S072|E036|51|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|100|641
+S075|E038|26|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|97|304
+S069|E035|24|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|100|1078
+S067|E034|69|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Part-Time|100|1062
+S066|E033|31|Male|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|Part-Time|100|553
+S070|E035|49|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|1344
+S064|E032|38|Male|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|2483
+S063|E032|39|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|1419
+S071|E036|26|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|237
+S065|E033|34|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|Yes|Full-Time|100|2453
+S068|E034|31|Female|United States|United States|United States|English|Technical/community college|No|DATA EXPIRED|100|499
+S073|E037|36|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|98|445
+S076|E038|29|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|98|404
+S074|E037|27|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|81
+S077|E039|22|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|590
+S078|E039|43|Male|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|1352
+S087|E044|40|Male|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|100|1233
+S091|E046|44|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|532
+S080|E040|38|Female|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|514
+S084|E042|18|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Part-Time|100|368
+S085|E043|60|Female|United States|United States|United States|English|Doctorate degree (PhD/other)|No|DATA EXPIRED|100|493
+S081|E041|22|Female|China|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|DATA EXPIRED|100|401
+S089|E045|45|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|550
+S083|E042|26|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Unemployed (and job seeking)|100|504
+S082|E041|40|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|1620
+S079|E040|27|Male|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|Full-Time|100|479
+S086|E043|33|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|Due to start a new job within the next month|100|454
+S090|E045|19|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Part-Time|100|466
+S088|E044|33|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|516
+S092|E046|36|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|446
+S158|E079|39|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|99|663
+S155|E078|29|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|Yes|Part-Time|100|486
+S160|E080|34|Male|United States|United States|United States|English|Technical/community college|No|Full-Time|100|256
+S162|E081|29|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|435
+S165|E083|48|Female|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|99|430
+S159|E080|24|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|100|257
+S164|E082|36|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|668
+S166|E083|NA|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Full-Time|98|795
+S149|E075|41|Female|United States|United States|United States|English|Technical/community college|No|Part-Time|100|423
+S161|E081|32|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|894
+S154|E077|46|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|846
+S151|E076|26|Female|United States|United States|United States|English|Technical/community college|No|Full-Time|100|566
+S153|E077|55|Female|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|580
+S152|E076|21|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|96|107
+S163|E082|34|Female|United States|United States|United States|English|Technical/community college|No|Part-Time|99|865
+S150|E075|21|Female|United States|United States|United States|English|Secondary education (e.g. GED/GCSE)|No|Part-Time|99|212
+S157|E079|26|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|179
+S156|E078|23|Male|United States|United States|United States|English|Technical/community college|Yes|Part-Time|100|43
+S171|E086|19|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Unemployed (and job seeking)|99|249
+S190|E095|37|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|837
+S180|E090|25|Female|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|DATA EXPIRED|100|411
+S189|E095|39|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|99|622
+S179|E090|23|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Due to start a new job within the next month|100|219
+S188|E094|26|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Part-Time|100|513
+S172|E086|26|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|586
+S182|E091|38|Female|United States|United States|United States|English|Technical/community college|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|369
+S181|E091|19|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Unemployed (and job seeking)|99|384
+S178|E089|43|Female|United States|United States|United States|English|Technical/community college|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|760
+S186|E093|23|Male|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|100|1015
+S177|E089|37|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|99|344
+S184|E092|30|Female|United States|United States|United States|English|Technical/community college|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|403
+S187|E094|54|Female|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|100|750
+S185|E093|33|Female|United States|United States|United States|English|Secondary education (e.g. GED/GCSE)|No|Part-Time|100|435
+S183|E092|31|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|759
+S173|E087|29|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Unemployed (and job seeking)|100|538
+S174|E087|29|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|103
+S175|E088|48|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|424
+S176|E088|37|Male|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|584
+S198|E099|25|Male|Haiti|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Unemployed (and job seeking)|100|602
+S195|E098|33|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|833
+S192|E096|24|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|135
+S191|E096|21|Female|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|DATA EXPIRED|100|372
+S194|E097|35|Female|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|540
+S201|E101|20|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|97|312
+S193|E097|19|Male|United States|United States|United States|English|High school diploma/A-levels|Yes|Part-Time|100|929
+S197|E099|21|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Not in paid work (e.g. homemaker', 'retired or disabled)|98|745
+S196|E098|34|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|Full-Time|100|925
+S199|E100|58|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|697
+S200|E100|30|Female|United States|United States|United States|English|Technical/community college|DATA EXPIRED|DATA EXPIRED|100|146
+S202|E101|36|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|DATA EXPIRED|100|1001
+S204|E102|31|Female|United States|United States|United States|English|Technical/community college|Yes|Full-Time|100|117
+S203|E102|27|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Unemployed (and job seeking)|100|348
+S093|E047|37|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|36
+S110|E055|29|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Full-Time|96|729
+S097|E049|37|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|564
+S105|E053|55|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Other|100|613
+S101|E051|27|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|518
+S094|E047|22|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|99|789
+S100|E050|29|Female|United States|United States|United States|English|Technical/community college|No|Full-Time|100|815
+S108|E054|44|Female|United States|United States|United States|English|Technical/community college|DATA EXPIRED|Part-Time|100|511
+S099|E050|21|Prefer not to say|China|United States|United States|English|High school diploma/A-levels|Yes|Not in paid work (e.g. homemaker', 'retired or disabled)|100|151
+S103|E052|22|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Unemployed (and job seeking)|100|48
+S098|E049|28|Male|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|99|512
+S104|E052|49|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|97|409
+S111|E056|53|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|99|545
+S102|E051|56|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|546
+S106|E053|33|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|505
+S109|E055|30|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Unemployed (and job seeking)|96|797
+S112|E056|27|Male|United States|United States|United States|English|Technical/community college|DATA EXPIRED|DATA EXPIRED|100|723
+S107|E054|28|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|99|934
+S096|E048|23|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Unemployed (and job seeking)|100|398
+S122|E061|23|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|96|159
+S128|E064|30|Female|United States|United States|United States|English|High school diploma/A-levels|No|Unemployed (and job seeking)|100|876
+S120|E060|50|Female|United States|United States|United States|English|Technical/community college|Yes|Part-Time|100|424
+S124|E062|42|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|32
+S119|E060|46|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Unemployed (and job seeking)|100|703
+S115|E058|30|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|402
+S117|E059|43|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|862
+S095|E048|46|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|100|466
+S123|E062|37|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Other|100|592
+S116|E058|37|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|458
+S121|E061|33|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|511
+S126|E063|72|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|100|618
+S127|E064|56|Female|United States|United States|United States|English|Technical/community college|No|DATA EXPIRED|100|261
+S125|E063|36|Female|United States|United States|United States|English|High school diploma/A-levels|No|Part-Time|100|225
+S118|E059|45|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|Full-Time|100|570
+S114|E057|29|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|98|511
+S113|E057|39|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|DATA EXPIRED|99|901
+S137|E069|20|Female|United States|United States|United States|English|High school diploma/A-levels|Yes|Unemployed (and job seeking)|99|59
+S130|E065|59|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|698
+S140|E070|35|Female|United States|United States|United States|English|Technical/community college|Yes|Full-Time|100|987
+S138|E069|38|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|DATA EXPIRED|100|473
+S129|E065|21|Female|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|DATA EXPIRED|98|481
+S143|E072|45|Female|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|526
+S147|E074|31|Female|United States|United States|United States|English|High school diploma/A-levels|No|Not in paid work (e.g. homemaker', 'retired or disabled)|100|41
+S139|E070|23|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|438
+S146|E073|31|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Unemployed (and job seeking)|100|491
+S142|E071|36|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|No|Full-Time|100|796
+S141|E071|30|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|99|456
+S144|E072|25|Male|United States|United States|United States|English|Technical/community college|No|Part-Time|100|198
+S145|E073|50|Male|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|DATA EXPIRED|DATA EXPIRED|100|748
+S148|E074|38|Male|United States|United States|United States|English|High school diploma/A-levels|No|Full-Time|100|899
+S131|E066|49|Male|United States|United States|United States|English|Secondary education (e.g. GED/GCSE)|No|Unemployed (and job seeking)|99|623
+S135|E068|20|Male|United States|United States|United States|English|High school diploma/A-levels|DATA EXPIRED|DATA EXPIRED|99|596
+S136|E068|32|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Other|100|594
+S134|E067|50|Female|United States|United States|United States|English|Technical/community college|No|Full-Time|100|476
+S132|E066|30|Male|United States|United States|United States|English|Technical/community college|Yes|Other|100|871
+S133|E067|44|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|DATA EXPIRED|DATA EXPIRED|100|412
+S167|E084|28|Female|United States|United States|United States|English|Graduate degree (MA/MSc/MPhil/other)|Yes|Other|100|434
+S168|E084|42|Male|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|Yes|Full-Time|100|567
+S169|E085|27|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Full-Time|100|803
+S170|E085|25|Female|United States|United States|United States|English|Undergraduate degree (BA/BSc/other)|No|Part-Time|100|318
